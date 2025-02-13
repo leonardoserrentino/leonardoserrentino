@@ -12,22 +12,6 @@ I’m a **Theoretical Computer Scientist** specializing in **Logic** and **Large
   From genomic data analysis to diagnostic prediction and beyond, I apply my expertise in data science and AI to uncover insights hidden in complex biological datasets.
 - **Computer Vision**
 
-## Why Work with Me
-
-- **Scientific Rigor**  
-  I integrate logic-driven methodologies to guarantee robustness, transparency, and reliability in every project.  
-- **Innovation & Curiosity**  
-  I’m constantly exploring emerging AI trends and theoretical constructs to bring fresh perspectives and creative solutions.   
-- **24/7 Consultancy**  
-  Whether it’s urgent troubleshooting or collaborative brainstorming, I’m here to support your project anytime.
-
-## Let’s Build Something Extraordinary
-
-If you’re looking for a partner who can combine **logic-based frameworks**, **state-of-the-art LLMs**, and **bioinformatics expertise** into a cohesive, impactful solution, let’s connect!  
-Together, we can transform theoretical ideas into **practical, high-value applications**.
-
----
-
 ### Contact Me
 
 - **GitHub**: [GitHub Profile](https://github.com/leonardoserrentino)
