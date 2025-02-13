@@ -21,5 +21,4 @@ I’m a **Theoretical Computer Scientist** specializing in **Logic** and **Large
       - [eMail 2](mailto:leonardo.serrentino@edu.unife.it)
       - [eMail 3](mailto:serrentino.leonardo99@gmail.com)
 
-> _"He who loves practice without theory is like the sailor who boards ship without a rudder and compass and never knows where he may cast." ~ Leonardo da Vinci_
 > _"Experience without theory is blind, but theory without experience is mere intellectual play." ~ Immanuel Kant_
