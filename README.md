@@ -8,7 +8,7 @@ I’m a **Computer Scientist** specializing in **Logic** and **Applied AI**. My 
   With a solid foundation in mathematical logic and formal systems, I ensure my solutions are both theoretically sound and verifiable.  
 - **Bioinformatics**  
   From genomic data analysis to diagnostic prediction and beyond, I apply my expertise in data science and AI to uncover insights hidden in complex biological datasets.
-- **Computer Vision**
+- **Computer Vision**  
   I have an intensively developed skill-army of Computer Vision techniques, mostly in Python and C++.
 
 ### Contact Me
