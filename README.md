@@ -1,16 +1,15 @@
 # Hello, I’m Leonardo! 👋
 
-I’m a **Theoretical Computer Scientist** specializing in **Logic** and **Large Language Models (LLMs)**. My passion is to blend rigorous theoretical insights with cutting-edge AI development to solve challenging, real-world problems.
+I’m a **Computer Scientist** specializing in **Logic** and **Applied AI**. My passion is to blend rigorous theoretical insights with cutting-edge AI development to solve challenging, real-world problems.
 
 ## What I Do 
 
 - **Logic & Formal Methods**  
   With a solid foundation in mathematical logic and formal systems, I ensure my solutions are both theoretically sound and verifiable.  
-- **Large Language Models**  
-  I design and refine LLM-based architectures—ranging from advanced chatbots to domain-specific knowledge distillation pipelines. My goal is to push the boundaries of human–AI interaction.  
 - **Bioinformatics**  
   From genomic data analysis to diagnostic prediction and beyond, I apply my expertise in data science and AI to uncover insights hidden in complex biological datasets.
 - **Computer Vision**
+  I have an intensively developed skill-army of Computer Vision techniques, mostly in Python and C++.
 
 ### Contact Me
 
