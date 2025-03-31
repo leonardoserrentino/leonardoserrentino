@@ -40,8 +40,8 @@ I’m a **Computer Scientist** specializing in **Logic** and **Applied AI**. My 
 ---
 
 ## 📫 **Get in Touch**
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/leonardoserrentino) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-serrentino-677467236/) [![ORCID](https://img.shields.io/badge/ORCID-Profile-%23A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-9884-0194)
-
-[![Academic Email](https://img.shields.io/badge/Academic%20Email-004EAA?style=for-the-badge&logo=academia&logoColor=white)](mailto:srrlrd@unife.it) [![Student Email](https://img.shields.io/badge/Student%20Email-00C853?style=for-the-badge&logo=google&logoColor=white)](mailto:leonardo.serrentino@edu.unife.it) [![Work Email](https://img.shields.io/badge/Work%20Email-FF6F00?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:serrentino.leonardo99@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/leonardoserrentino) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-serrentino-677467236/) [![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-9884-0194)
+#### Emails
+[![Academic](https://img.shields.io/badge/Academic-004EAA?style=for-the-badge&logo=academia&logoColor=white)](mailto:srrlrd@unife.it) [![Student](https://img.shields.io/badge/Student-00C853?style=for-the-badge&logo=google&logoColor=white)](mailto:leonardo.serrentino@edu.unife.it) [![Work](https://img.shields.io/badge/Work-FF6F00?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:serrentino.leonardo99@gmail.com)
 
 > _"Experience without theory is blind, but theory without experience is mere intellectual play." ~ Immanuel Kant_
