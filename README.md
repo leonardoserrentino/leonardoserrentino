@@ -10,6 +10,8 @@ I’m a **Computer Scientist** specializing in **Logic** and **Applied AI**. My 
   From genomic data analysis to diagnostic prediction and beyond, I apply my expertise in data science and AI to uncover insights hidden in complex biological datasets.
 - **Computer Vision**  
   I have an intensively developed skill-army of Computer Vision techniques, mostly in Python and C++.
+- **Theoretical Computer Science**  
+  Here are my contributions in the field of theoretical computer science and AI [ORCiD](https://orcid.org/0009-0004-9884-0194)
 
 ## 🛠 **Tech Stack**
 
@@ -40,7 +42,7 @@ I’m a **Computer Scientist** specializing in **Logic** and **Applied AI**. My 
 ---
 
 ## 📫 **Get in Touch**
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/leonardoserrentino) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-serrentino-677467236/) [![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-9884-0194)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/leonardoserrentino) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-serrentino-677467236/) 
 #### Emails
 [![Academic](https://img.shields.io/badge/Academic-004EAA?style=for-the-badge&logo=academia&logoColor=white)](mailto:srrlrd@unife.it) [![Student](https://img.shields.io/badge/Student-00C853?style=for-the-badge&logo=google&logoColor=white)](mailto:leonardo.serrentino@edu.unife.it) [![Work](https://img.shields.io/badge/Work-FF6F00?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:serrentino.leonardo99@gmail.com)
 
